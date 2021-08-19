@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-zoom-pan-pinch-test/static/css/main.67b937b5.chunk.css",
+    "main.js": "/react-zoom-pan-pinch-test/static/js/main.f37bb9b1.chunk.js",
+    "main.js.map": "/react-zoom-pan-pinch-test/static/js/main.f37bb9b1.chunk.js.map",
+    "runtime-main.js": "/react-zoom-pan-pinch-test/static/js/runtime-main.17ba8c79.js",
+    "runtime-main.js.map": "/react-zoom-pan-pinch-test/static/js/runtime-main.17ba8c79.js.map",
+    "static/js/2.6f587db7.chunk.js": "/react-zoom-pan-pinch-test/static/js/2.6f587db7.chunk.js",
+    "static/js/2.6f587db7.chunk.js.map": "/react-zoom-pan-pinch-test/static/js/2.6f587db7.chunk.js.map",
+    "static/js/3.cf418740.chunk.js": "/react-zoom-pan-pinch-test/static/js/3.cf418740.chunk.js",
+    "static/js/3.cf418740.chunk.js.map": "/react-zoom-pan-pinch-test/static/js/3.cf418740.chunk.js.map",
+    "index.html": "/react-zoom-pan-pinch-test/index.html",
+    "static/css/main.67b937b5.chunk.css.map": "/react-zoom-pan-pinch-test/static/css/main.67b937b5.chunk.css.map",
+    "static/js/2.6f587db7.chunk.js.LICENSE.txt": "/react-zoom-pan-pinch-test/static/js/2.6f587db7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ba8c79.js",
+    "static/js/2.6f587db7.chunk.js",
+    "static/css/main.67b937b5.chunk.css",
+    "static/js/main.f37bb9b1.chunk.js"
+  ]
+}
