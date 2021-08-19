@@ -39,6 +39,10 @@ class Example extends Component {
             </div>
             <div id="second">
               <div>section 2</div>
+              <button onClick={() => zoomToElement("third")}>FLY to SECTION 3 button</button>
+            </div>
+            <div id="third">
+              <div>section 3</div>
             </div>
             </TransformComponent>
           </React.Fragment>
